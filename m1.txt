@@ -1,0 +1,6 @@
+Adding new feature....
+<<<<<<< Updated upstream
+few more changes 
+=======
+>>>>>>> Stashed changes
+ Add new features 
